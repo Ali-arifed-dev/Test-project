@@ -1,0 +1,10 @@
+.relative-image {
+    border: 1px solid #000;
+    padding: 20px;
+    position: relative;
+}
+img {
+    position: relative;
+    width: 150px;
+    top: 10px;
+}

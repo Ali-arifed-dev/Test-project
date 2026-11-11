@@ -1,0 +1,27 @@
+#block1 {
+    background-color: gold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    font-weight:bolder
+    
+}
+
+#block2 {
+    background-color:lawngreen ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    padding: 15px 20px;
+    margin: 10px;
+}
+
+#block3 {
+    background-color: coral;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    padding: 20px;
+    margin: 10px;
+}

@@ -1,0 +1,21 @@
+h2{
+    color: rgb(194, 15, 210);
+}
+
+#book1 {
+background-color: blanchedalmond;
+color: rgb(32, 181, 147);
+}
+
+#book2 {
+    background-color: rgba(5, 4, 4, 0.364);
+    color: blue;
+}
+#book3 {
+    background-color: aqua;
+    color: rgb(185, 21, 210);
+}
+#book4{
+    background-color: blueviolet;
+    color: coral;
+}

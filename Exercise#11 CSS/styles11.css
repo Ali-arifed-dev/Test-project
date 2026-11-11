@@ -1,0 +1,35 @@
+   .feature-section {
+    background-image: url(https://elements-resized.envatousercontent.com/envato-dam-assets-production/portfolio-manager/66116882-3ec1-4d47-9b83-9c1e242f99a7/28cb6c69-c744-4bc7-9344-fc4af478ad76/DSC03374_S2.jpg?w=1600&cf_fit=scale-down&mark-alpha=18&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark4.png&q=85&format=auto&s=2ffe82c47ff74d6bc8cbd3e5a47c12ea2cad10ecbd807d3c6eb86eaa32ea8bce);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    height: 400px;
+    width: 200px;
+   
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid tomato;
+    
+   } 
+
+
+ #title {
+       color: rgb(251, 255, 0);
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       text-align: center;
+       margin: 1px;
+
+
+   }
+
+   .feature-section img {
+       width: 200px;
+       height: 300px;
+       border-radius: 10px;
+   }
+
+   .feature-section p {
+       font-weight: bold;
+       text-decoration: overline;
+   }

@@ -1,0 +1,43 @@
+.flex-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #333;
+}
+
+.logo-container{
+    color: white;
+}
+
+
+.nav-links {
+    display: flex;
+    list-style: none;
+
+}
+
+.nav-links li a {
+    color: white;
+    padding: 20px;
+    text-decoration:none ;
+}
+
+.action-container button{
+    background-color: aquamarine;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+
+}
+
+.action-container button:hover {
+    background-color: aqua;
+}
+
+.hero {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

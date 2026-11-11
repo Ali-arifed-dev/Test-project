@@ -1,0 +1,14 @@
+.media-player {
+    display: flex;
+    width: 400px;
+}
+
+.control-button {
+    flex: 1;
+    height: 30px;
+
+}
+
+.play {
+    flex: 2 ;
+}
